@@ -31,6 +31,19 @@ Total Host: **778** host
 ## VLSM
 <img width="370" height="611" alt="Screenshot 2025-11-11 182320" src="https://github.com/user-attachments/assets/9521e8fb-f76e-4087-8161-d83d3f406794" />
 
+## 🌐 Skema Alokasi Subnetting Jaringan
+
+| Subnet / Departemen | Prefix | NID (Network ID) | Range Block | Netmask | Broadcast | # Host Usable | Rentang IP yang Dapat Dipakai |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Sekretariat | /23 | 10.4.3.2.0 | 10.4.2.0 - 10.4.3.255 | 255.255.254.0 | 10.4.3.255 | 510 | 10.4.2.1 - 10.4.3.254 |
+| Bidang Kurikulum | /24 | 10.4.3.1.0 | 10.4.1.0 - 10.4.3.255 | 255.255.255.0 | 10.4.3.255 | 254 | 10.4.1.1 - 10.4.3.254 |
+| Bidang Guru & Tendik | /25 | 10.4.3.0.128 | 10.4.3.0.128 - 10.4.3.255 | 255.255.255.128 | 10.4.3.255 | 126 | 10.4.3.0.129 - 10.4.3.254 |
+| Bidang Sarana Prasarana | /26 | 10.4.3.0.64 | 10.4.3.0.64 - 10.4.3.127 | 255.255.255.192 | 10.4.3.127 | 62 | 10.4.3.0.65 - 10.4.3.126 |
+| Bidang Pengawas Sek. (Branch) | /27 | 10.4.3.0.32 | 10.4.3.0.32 - 10.4.3.63 | 255.255.255.224 | 10.4.3.63 | 30 | 10.4.3.0.33 - 10.4.3.62 |
+| Server & Admin | /28 | 10.4.3.0.16 | 10.4.3.0.16 - 10.4.3.31 | 255.255.255.240 | 10.4.3.31 | 14 | 10.4.3.0.17 - 10.4.3.30 |
+| Router (Interlink) | /29 | 10.4.3.0.8 | 10.4.3.0.8 - 10.4.3.15 | 255.255.255.248 | 10.4.3.15 | 6 | 10.4.3.0.9 - 10.4.3.14 |
+| Tunnel / Point-to-Point | /30 | 10.4.3.0.0 | 10.4.3.0.0 - 10.4.3.3 | 255.255.255.252 | 10.4.3.3 | 2 | 10.4.3.0.1 - 10.4.3.2 |
+
 <img width="1464" height="281" alt="Screenshot 2025-11-11 193531" src="https://github.com/user-attachments/assets/04d2041b-d28c-43d3-8fc9-ce9fe1ebae59" />
 
 

@@ -43,8 +43,7 @@ Total Host: **778** host
 | Router (Interlink) | /29 | 10.43.0.8 | 10.43.0.8 - 10.43.0.15 | 255.255.255.248 | 10.43.0.15 | 6 | 10.43.0.9 - 10.43.0.14 |
 | Tunnel / Point-to-Point | /30 | 10.43.0.0 | 10.43.0.0 - 10.43.0.3 | 255.255.255.252 | 10.43.0.3 | 2 | 10.43.0.1 - 10.43.0.2 |
 
-<img width="1464" height="281" alt="Screenshot 2025-11-11 193531" src="https://github.com/user-attachments/assets/04d2041b-d28c-43d3-8fc9-ce9fe1ebae59" />
-
+## CIDR
 
 ## Question 4
 

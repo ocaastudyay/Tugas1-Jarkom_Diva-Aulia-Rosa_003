@@ -50,6 +50,7 @@ Total Host: **778** host
 <img width="734" height="493" alt="image" src="https://github.com/user-attachments/assets/a431aa4e-ca59-4995-85a1-51abf759a3f1" />
 
 |Subnet / Departemen | NID (Network ID) |	| Range Block	| | Netmask |	| Broadcast |	 | Host Usable | |	Rentang IP yang Dapat Dipakai |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Sekretariat |	10.43.0.0	| | 10.43.0.0 - 10.43.1.255 | |	255.255.254.0 (/23) |	 | 10.43.1.255 |	| 510 |	| 10.43.0.1  - 10.43.1.254 |
 | Bidang Kurikulum |	10.43.2.0 |	10.43.2.0 - 10.43.2.255 |	| 255.255.255.0 (/24) |	| 10.43.2.255 |	| 254 |	| 10.43.2.1 - 10.43.2.254 |
 | Bidang Guru & Tendik |	10.43.3.0	| | 10.43.3.0 - 10.43.3.127 |	| 255.255.255.128 (/25) |	| 10.43.3.127 | |	126	| |10.43.3.1 - 10.43.3.126 |

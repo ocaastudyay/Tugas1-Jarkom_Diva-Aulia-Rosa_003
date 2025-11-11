@@ -26,6 +26,10 @@ Total Host: **778** host
 
 > Lakukan perhitungan subnetting dengan VLSM & CIDR di Spreadsheet untuk seluruh jaringan LAN dan link antar-router.
 
+<img width="1122" height="589" alt="Screenshot 2025-11-11 183058" src="https://github.com/user-attachments/assets/0012b59c-66fb-4898-ad27-a163024574fb" />
+
+<img width="370" height="611" alt="Screenshot 2025-11-11 182320" src="https://github.com/user-attachments/assets/9521e8fb-f76e-4087-8161-d83d3f406794" />
+
 
 ## Question 4
 

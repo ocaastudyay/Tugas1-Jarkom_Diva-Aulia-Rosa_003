@@ -18,6 +18,7 @@ Contoh: NRP 5027221015 mod 256 = 23, maka base: 10.23.0.0.
 
 **IP Prefix:** `10.43.0.0/22`  
 Total Host: **778** host
+
 <img width="664" height="323" alt="Screenshot 2025-11-11 165810" src="https://github.com/user-attachments/assets/580fc876-d904-474d-a0d1-fd605852a745" />
 
 

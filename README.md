@@ -31,8 +31,7 @@ Total Host: **778** host
 ## VLSM
 <img width="370" height="611" alt="Screenshot 2025-11-11 182320" src="https://github.com/user-attachments/assets/9521e8fb-f76e-4087-8161-d83d3f406794" />
 
-
-<img width="1464" height="281" alt="Screenshot 2025-11-11 193531" src="https://github.com/user-attachments/assets/04d2041b-d28c-43d3-8fc9-ce9fe1ebae59" />
+<img width="1464" height="281" alt="Screenshot 2025-11-11 193531" src="https://github.com/user-attachments/assets/04d2041b-d28c-43d3-8fc9-ce9fe1ebae59" /><br/>
 
 
 ## Question 4
